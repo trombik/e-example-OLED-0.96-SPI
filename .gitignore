@@ -1,0 +1,5 @@
+.pioenvs
+.piolibdeps
+NeoPixel-cache.lib
+*.bak
+*.swp
